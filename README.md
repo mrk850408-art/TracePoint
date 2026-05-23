@@ -44,3 +44,32 @@ Checks whether an IP address has been reported for malicious activity and return
 Queries Shodan to retrieve exposed services, ports, operating system information, and other publicly available host data.
 
 ---
+
+### URL Reputation
+Submits a URL to VirusTotal for scanning and returns safety and detection results from multiple engines.
+
+---
+
+### WHOIS Lookup
+Retrieves domain registration details such as registrar information, creation date, and ownership data (if available).
+
+---
+
+### Report Export (JSON / CSV)
+Exports collected investigation data into structured JSON or CSV formats for documentation or further analysis.
+
+---
+
+## Purpose
+
+Tracepoint is designed to assist with:
+- Incident response triage
+- Threat intelligence gathering
+- OSINT investigations
+- DFIR case documentation
+
+---
+
+## Disclaimer
+
+This tool is intended for **defensive security and educational use only**. Use only on data and systems you are authorized to investigate.
