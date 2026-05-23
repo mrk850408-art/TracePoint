@@ -1,0 +1,7 @@
+requests
+exifread
+shodan
+python-whois
+python-dotenv
+colorama
+pillow
